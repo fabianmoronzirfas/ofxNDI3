@@ -6,7 +6,8 @@ Send receive video frames over the network. Based on work by @thomasgeissl
 
 ofxNDI is an openframeworks addon to receive and send NDI streams. It extends the ofVideoGrabber class.
 
-## Tested In
+## Tested On
+
 Currently only linux libs are added and tested. Theoretically it should work for windows and MacOS too.
 
 
