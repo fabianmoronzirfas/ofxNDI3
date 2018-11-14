@@ -1,12 +1,17 @@
 # ofxNDI3
+
 Send receive video frames over the network. Based on work by @thomasgeissl
 
-## description
+## Description
+
 ofxNDI is an openframeworks addon to receive and send NDI streams. It extends the ofVideoGrabber class.
 
-Currently only osx libs added and tested. Theoretically it should work for windows too, linux libs are not yet added.
+## Tested In
+Currently only linux libs are added and tested. Theoretically it should work for windows and MacOS too.
 
-## license
+
+## License
+
 This project is released under MIT license, please note that dependencies might be released differently.
 
 Copyright (c) 2018 Thomas Geissl & Fabian Morón Zirfas
